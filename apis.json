@@ -1,0 +1,61 @@
+{
+    "name": "TextRazor",
+    "description": "<p>The service provides analysis of selected text passages to identify named entities and statements of fact with disambiguation to distinguish similar text strings. It applies machine learning algorithms and natural language processing to connect a text sample with a knowledge base and identify known elements and their relationships. API methods support submission of a text sample to be parsed.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/textrazor.gif",
+    "tags": [
+        "content",
+        "have api",
+        "machine learning",
+        "machine learning scraping",
+        "scraping",
+        "semantic",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/textrazor\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TextRazor",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/textrazor.gif",
+            "humanURL": "http:\/\/www.textrazor.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/textrazor-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/textrazor-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.textrazor.com"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.textrazor.com\/documentation_rest"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/TextRazor"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TextRazor"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.textrazor.com"
+        }
+    ]
+}
